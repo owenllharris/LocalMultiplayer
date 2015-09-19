@@ -1,0 +1,32 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M    (ID=0xfe9)
+    Vendor:   NVIDIA
+    VRAM:     1986 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.118 seconds
+desktop: 1920x1200 60Hz; virtual: 4320x1350 at -2400,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Owen\Documents\GameDev\Unity\LocalMultiplayer\LocalMultiplayer\Builds\firstTest_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2054 -> priority: 1 
+  Thread -> id: 1fc4 -> priority: 1 
