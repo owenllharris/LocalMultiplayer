@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.Networking;
 
-public class LocalCameraEnable : NetworkBehaviour {
+public class GrabLocalCamera : NetworkBehaviour {
 
     public GameObject cam;
     public GameObject camHolder;
